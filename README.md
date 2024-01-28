@@ -1,5 +1,4 @@
-# f23-academy-mp08-weathery-zabdielvillalobos
-f23-academy-mp08-weathery-zabdielvillalobos created by GitHub Classroom
+
 
 Weather App that uses API to pull weather for a given city. 
 
